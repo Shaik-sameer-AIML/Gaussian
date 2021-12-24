@@ -14,12 +14,12 @@ To write a program to find the Gaussian Elimination with partial pivoting of a m
 4. End the program.
 
 ## Program:
-```
+~~~
 Program to find the Gaussian Elimination with partial pivoting of a matrix.
 Developed by: sameer.s
 RegisterNumber: 21003881
 
-```
+
 import numpy as np
 
 
@@ -67,7 +67,7 @@ for i in range(n-2,-1,-1):
 for i in range(n):
 
     print('X%d = %0.2f' %(i,X[i]), end = ' ')
-
+~~~
 ## Output:
 
 ![output](https://github.com/Shaik-sameer-AIML/Gaussian/blob/main/gaussion%20elimination.JPG?raw=true)
