@@ -70,7 +70,7 @@ for i in range(n):
 ~~~
 ## Output:
 
-![output](https://github.com/Shaik-sameer-AIML/Gaussian/blob/main/gaussion%20elimination.JPG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/Gaussian/blob/main/Gaussion.JPG?raw=true)
 
 
 ## Result:
